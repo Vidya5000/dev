@@ -3,3 +3,4 @@ hello world...!
 git soft reset
 git mixed commit
 git hard reset
+remote commit
