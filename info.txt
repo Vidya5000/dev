@@ -4,3 +4,4 @@ git soft reset
 git mixed commit
 git hard reset
 local commit
+remote commit
